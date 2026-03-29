@@ -1,2 +1,2 @@
 # SOMETHING!
-If you want to contribute, go away!
+If you want to contribute, actually contribute
